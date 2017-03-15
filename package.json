@@ -1,0 +1,9 @@
+{
+  "name": "warrior",
+  "version": "0.0.1",
+  "description": "A bot who wanders around repositories @knightshq",
+  "main": "index.js",
+  "repository": "https://github.com/knightshq/warrior",
+  "author": "rajikaimal <inbox.rajika@gmail.com>",
+  "license": "MIT"
+}
